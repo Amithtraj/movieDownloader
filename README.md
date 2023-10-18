@@ -1,6 +1,6 @@
 
 
-**Title: Movie Downloader GUI using Python**
+**Movie Downloader GUI using Python**
 
 **Description:**
 
