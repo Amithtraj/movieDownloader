@@ -1,4 +1,4 @@
-Movie Downloader GUI using Python
+Title: Movie Downloader GUI using Python
 
 Description:
 
